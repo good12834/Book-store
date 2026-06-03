@@ -1,0 +1,6 @@
+{
+  "name": "Bookstore",
+  "description": "A premium, professional bookstore homepage with smooth parallax scrolling, an interactive featured books slider, and an elegant, responsive user experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
